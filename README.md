@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Ajit Yamgar
+I’m a developer, designer, and tech enthusiast passionate about building impactful digital solutions.
 
-<!--
-**ajityamgar/ajityamgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I Do
+💻 Full-stack development (React, TypeScript, Python, PHP)
+📱 Creating apps that solve real-world problems
+🌱 Exploring AI, voice assistants, and automation
+🎨 UI/UX with clean and minimal design principles
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+Frontend: React, Next.js, TypeScript, Tailwind CSS
+Backend: Python, Node.js, PHP
+Databases: MySQL, SQLite, MongoDB
+Other: Git, APIs, Cloud, AI tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Projects
+🏥 Revionix Homeo – A homeopathy consultation & appointment system
+🌾 E-Kisaan Bazaar – A marketplace for farmers and buyers
+📦 InfoLens – A smart barcode scanner with offline caching
+🎮 Ghost Friend – An engaging game concept in progress
+
+📫 Connect with Me
+🌐 Portfolio Website
+💼 LinkedIn
+🐦 Twitter
+📧 Email: yourname@email.com

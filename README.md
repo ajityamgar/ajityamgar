@@ -23,4 +23,4 @@ Other: Git, APIs, Cloud, AI tools
 📫 Connect with Me
 🌐 Portfolio Website: ajitt-netlify.app
 💼 LinkedIn: https://www.linkedin.com/in/ajit-yamgar-988b9a263/
-📧 Email: yourname@email.com
+📧 Email: ajityamgar855@email.com

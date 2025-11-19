@@ -4,7 +4,7 @@ I’m a developer, designer, and tech enthusiast passionate about building impac
 
 🚀 What I Do
 
-💻 Full-stack development (React, TypeScript, Python, PHP)
+💻 Full-stack development (HTML, CSS, JS, Python, PHP)
 
 📱 Creating apps that solve real-world problems
 
@@ -14,9 +14,8 @@ I’m a developer, designer, and tech enthusiast passionate about building impac
 
 🛠️ Tech Stack
 
-Frontend: React, Next.js, TypeScript, Tailwind CSS
-
-Backend: Python, Node.js, PHP
+Frontend: HTML, CSS, JS 
+Backend: Python, PHP
 
 Databases: MySQL, SQLite, MongoDB
 

@@ -1,40 +1,46 @@
-👋 Hi, I'm Ajit Yamgar
+Hi, I’m Ajit Yamgar 👋
 
-I’m a developer, designer, and tech enthusiast passionate about building impactful digital solutions.
+Full-Stack Developer | Python Enthusiast | AI Tools Explorer
 
-🚀 What I Do
+I enjoy building smart and scalable web applications that solve real problems.
+Currently pursuing BBA (Computer Applications) and working on full-stack projects using modern web technologies.
 
-💻 Full-stack development (HTML, CSS, JS, Python, PHP)
+🚀 Tech Stack
 
-📱 Creating apps that solve real-world problems
+Frontend: HTML, CSS, JavaScript
 
-🌱 Exploring AI, voice assistants, and automation
+Backend: PHP, Python
 
-🎨 UI/UX with clean and minimal design principles
+Databases: MySQL, PostgreSQL
 
-🛠️ Tech Stack
+Tools: GitHub, VS Code, phpMyAdmin
 
-Frontend: HTML, CSS, JS 
-Backend: Python, PHP
+Others: SEO, Responsive Design, Power BI, Excel
 
-Databases: MySQL, SQLite, MongoDB
+🧩 Featured Projects
 
-Other: Git, APIs, Cloud, AI tools
+Revionix Homeo
 
-📌 Featured Projects
+E-Kisaan Bazaar
 
-🏥 Revionix Homeo – A homeopathy consultation & appointment system
+Weather App
 
-🌾 E-Kisaan Bazaar – A marketplace for farmers and buyers
+Student Attendance + Face Recognition System
 
-📦 InfoLens – A smart barcode scanner with offline caching
+Inventory & Event Management Systems (Ongoing)
 
-🎮 Ghost Friend – An engaging game concept in progress
+🎯 What I’m Up To
 
-📫 Connect with Me
+Enhancing backend development skills
 
-🌐 Portfolio Website: https://ajitt-netlfiy.app/
+Exploring AI-powered development
 
-💼 LinkedIn : https://www.linkedin.com/in/ajit-yamgar-988b9a263/
+Building portfolio-ready products
 
-📧 Email: ajityamgar855@gmail.com
+📫 Connect With Me
+
+Portfolio: https://ajitt.netlify.app/
+
+LinkedIn: linkedin.com/in/ajit-yamgar
+
+GitHub: github.com/ajityamgar
